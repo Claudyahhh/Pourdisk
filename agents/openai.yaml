@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pourdisk"
+  short_description: "Audit and safely clean macOS storage"
+  default_prompt: "Use $pourdisk to audit my Mac storage, classify cleanup candidates, and clean only after confirmation."
